@@ -19,8 +19,8 @@
 
 ## 个人评价
 
-- Agent相关技能扎实:Prompt Engineering/Context Engineering/Harness Engineering,以及熟练使用LangGraph Agent开发框架.
-- 15 年软件开发经验，历经 PHP 后端、全栈开发到 AI 应用的技术演进，先后在完美世界、小米、阿里等公司参与大型项目开发。具备独立从 0 到 1构建产品的能力，擅长将 AI 能力融入产品设计，熟练运用 AI 辅助(cursor/trae/claude code/open code)开发工具提升工程效率。有创业经历，对产品运营和商业闭环有实际认知。
+- AI Agent 技能体系扎实，系统掌握 Prompt Engineering / Context Engineering / Harness Engineering 三大工程领域，熟练运用 LangGraph 构建生产级有状态 Agent。
+- 15 年软件开发经验，历经 PHP 后端、全栈到 AI 应用的完整技术演进，先后于完美世界、小米、阿里等公司参与大型项目开发；具备独立从 0 到 1 构建产品的能力，擅长将 AI 能力深度融入产品设计，深度使用 Claude Code 等 AI Coding 工具大幅提升工程交付效率；有创业经历，对产品运营与商业闭环有实践认知。
 
 ---
 
