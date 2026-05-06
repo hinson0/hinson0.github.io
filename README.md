@@ -7,7 +7,7 @@
       <b>学历：</b> 本科 <br />
       <b>Phone：</b> 13907941239 <b>E-mail：</b> 356745844@qq.com <br>
       <b>github: </b> https://github.com/hinson0 <br>
-      <b>github.io: </b> https://hinson0.github.io 
+      <b>个人主页: </b> https://hinson0.github.io 
     </td>
     <td width="120">
       <img src="yzb.jpeg" width="100" />
@@ -19,7 +19,7 @@
 
 ## 个人评价
 
-- AI Agent 技能体系扎实，系统掌握 Prompt Engineering / Context Engineering / Harness Engineering 三大工程领域，熟练运用 LangGraph 构建生产级有状态 Agent。
+- AI Agent 技能体系扎实，对 Prompt Engineering / Context Engineering / Harness Engineering 三大工程领域有一定了解，熟练运用 LangGraph 构建生产级有状态 Agent。
 - 15 年软件开发经验，历经 PHP 后端、全栈到 AI 应用的完整技术演进，先后于完美世界、小米、阿里等公司参与大型项目开发；具备独立从 0 到 1 构建产品的能力，擅长将 AI 能力深度融入产品设计，深度使用 Claude Code 等 AI Coding 工具大幅提升工程交付效率；有创业经历，对产品运营与商业闭环有实践认知。
 
 ---
@@ -53,18 +53,18 @@
 - 熟练掌握 Python，熟悉 async/await 底层机制、GIL 与异步 I/O、generator/coroutine、内存泄漏跟踪、type/metaclass等
 - 熟练掌握 FastAPI，熟悉 RESTful API 设计、SQLAlchemy ORM、Alembic 数据库迁移
 - 熟悉 PostgreSQL，掌握索引优化、数据建模；熟练编写 SQL
-- 有 PHP（完美世界 / 小米 / 天猫）与 Node.js（天猫）后端开发经验，熟悉 MVC 架构与大规模服务设计
 
-**DevOps & 工程化**
+**DevOps**
 
 - 熟练使用 Docker / Docker Compose 容器化部署；熟悉 GitHub Actions CI/CD，有阿里云 ECS、AWS EC2 运维经验
-- 熟练使用 Linux 与 Shell 编程，掌握 vim、pnpm Monorepo、justfile 等工程化工具
+- 熟练使用 Linux 与 Shell 编程，掌握 vim、justfile 等工程化工具
 
 **前端开发**
 
+- 了解 pnpm Monorepo
 - 了解 React Native (Expo) / TypeScript / React 19，具备从零构建跨平台移动应用的能力
-- 熟悉 expo-router、Zustand、React Query、expo-sqlite 等 Expo 生态技术栈
-- 熟悉 Web 前端（HTML / CSS / JavaScript），有 Next.js 项目开发经验
+- 了解 expo-router、Zustand、React Query、expo-sqlite 等 Expo 生态技术栈
+- 熟悉 Web 前端（HTML / CSS / JavaScript）
 
 ---
 
@@ -93,13 +93,9 @@
 
 - 负责仓储物流模块开发（PHP+MySQL）
 
-**完美世界（北京）网络技术有限公司 | 2011/02 - 2012/04**
+**完美世界（北京）网络技术有限公司 | 2008/10 - 2012/04**
 
 - 参与纵横微博、178 微博、173-Webmail 玩家口袋等产品开发（PHP+MySQL）
-
-**抚州市某市级机关信息通信部门 | 2008/07 - 2010/09**
-
-- 基于 PHPCMS 进行政务网站二次开发与建设（PHP + MySQL）
 
 ---
 
@@ -158,18 +154,10 @@
 
 **DevOps：**
 
-- **混合架构选型**：自建云服务器（阿里云国际站 ECS，后迁移至 AWS EC2）+ Supabase BaaS（PostgreSQL / Edge Functions / Auth / Storage），在基础设施可控性与开发交付效率之间取得平衡
+- **混合架构选型**：自建云服务器（阿里云国际站 ECS，后迁移至 AWS EC2）+ Supabase BaaS（PostgreSQL / Auth / Storage）
 - 基于 Docker Compose 容器化 PostgreSQL、Redis 等服务，通过 systemctl 托管 compose 进程实现开机自启与崩溃自恢复，落地结构化日志追踪
 - 基于 GitHub Actions 搭建 CI/CD 流水线实现推送即部署，并主导从阿里云 ECS 到 AWS EC2 的跨云迁移
 
 ## 教育背景
 
-- 北京康盛创想培训中心 | PHP 开发培训 | 2010/09 - 2010/12
 - 桂林电子科技大学 | 信息与通信学院 · 电子信息工程 · 本科 · 学士 | 2004/09 - 2008/07
-- 抚州一中 | 高中 | 2001/09 - 2004/07
-
----
-
-## 兴趣爱好
-
-- 王者荣耀，Dota，长跑，中国象棋，三阶魔方。
