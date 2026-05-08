@@ -28,11 +28,11 @@
 ## 作品展示
 
 - CoCoAI记账app(side project):
-  - 主页: https://cocoai.chat
-  - github: https://github.com/hinson0/coco
+  - 主页: [https://cocoai.chat](https://cocoai.chat)
+  - github: [https://github.com/hinson0/coco](https://github.com/hinson0/coco)
 
 - 七月小说阅读器app(原型设计稿):
-  - github: https://qiyue.cocoai.chat/
+  - github: [https://qiyue.cocoai.chat/](https://qiyue.cocoai.chat/)
 
 ## 专业技能
 
@@ -113,8 +113,8 @@
 
 ### CoCo AI 记账 — 多模态智能记账 App（个人项目，全程基于Claude Code进行AI Coding）
 
-- 官网: https://cocoai.chat
-- github: https://github.com/hinson0/coco
+- 官网: [https://cocoai.chat](https://cocoai.chat)
+- github: [https://github.com/hinson0/coco](https://github.com/hinson0/coco)
 
 **阶段：** 从 0 到 1 构建，历时 15 天开发 MVP 版本
 
