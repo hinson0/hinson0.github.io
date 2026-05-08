@@ -31,8 +31,8 @@
   - 主页: https://cocoai.chat
   - github: https://github.com/hinson0/coco
 
-- 七月小说阅读器app(ui/ux):
-  - github: https://github.com/hinson0/qiyue_xiaoshuo_reader/tree/main/design/png
+- 七月小说阅读器app(原型设计稿):
+  - github: https://qiyue.cocoai.chat/
 
 ## 专业技能
 
