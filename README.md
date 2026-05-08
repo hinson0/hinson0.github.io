@@ -7,7 +7,7 @@
       <b>学历：</b> 本科 <br />
       <b>Phone：</b> 13907941239 <b>E-mail：</b> 356745844@qq.com <br>
       <b>github: </b> https://github.com/hinson0 <br>
-      <b>github.io: </b> https://yzb.github.io 
+      <b>github.io: </b> https://hinson0.github.io 
     </td>
     <td width="120">
       <img src="yzb.jpeg" width="100" />
