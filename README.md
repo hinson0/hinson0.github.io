@@ -80,7 +80,7 @@
 
 ## 工作经历
 
-**StoryverseAI（海外）| 2025/04 - 至今** AI Agent产品经理
+**StoryverseAI（海外）| 2025/04 - 至今** 全栈开发工程师
 
 - StoryverseAI — 面向海外市场的 AI 多模态内容生产产品（从 0 到 1 构建 MVP，历时 19 天）
 - CoCo AI 记账 — 多模态智能记账 App（从 0 到 1 构建 MVP，历时 15 天）
